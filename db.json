@@ -6,21 +6,21 @@
         "name": "Wild",
         "desc": "If you're looking to cut calories and up your protein intake, wild rice is the better option. A serving of wild rice contains fewer calories and boasts double the protein content of brown rice.",
         "origin": "USA",
-        "price": "7.50$",
+        "price": "7.50",
         "image": "https://www.northbaytrading.com/media/catalog/product/cache/57bdce4f10465bdfd189f02b1d249e78/m/i/minnesota_grown_wild_rice_650px_1_1.jpg"
     },
     {
         "name": "Jasmine",
         "desc": "Jasmine rice is a long-grain rice. This means that it is longer and thinner than most other types of rice. It also tends to have a fluffy texture when cooked, rather than soft and clumpy.",
         "origin": "Thailand",
-        "price": "7.99$",
+        "price": "7.99",
         "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/2014_uncooked_Thai_jasmine_rice.jpg"
     },
     {
         "name": "Short-grain",
         "desc": "",
         "origin": "Japan",
-        "price": "5.99$",
+        "price": "5.99",
         "image": "https://www.happyfoodstube.com/wp-content/uploads/2020/04/rice-paper-sushi-image.jpg"
     },
     {
