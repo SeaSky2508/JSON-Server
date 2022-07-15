@@ -27,21 +27,21 @@
         "name": "Bomba rice",
         "desc": "Ideal for paella this rice is very popular in mediterranian countries, its main trait is that it absorbs lots of water so it requires lots of water to cook.",
         "origin": "Valencia",
-        "price": "4.99",
+        "price": 4.99,
         "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdnimg.webstaurantstore.com%2Fimages%2Fproducts%2Fxxl%2F607339%2F2179548.jpg&f=1&nofb=1"
     },
     {
         "name": "Basmati Rice",
         "desc": "Long grain, with a great aroma. Ideal for salads and cold dishes it can be combined with many dishes and is very popular in India",
         "origin": "India",
-        "price": "3.99",
+        "price": 3.99,
         "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmininepal.jp%2Fwp-content%2Fuploads%2F2020%2F11%2F7-rice-basmati-3.jpg&f=1&nofb=1"
     },
     {
         "name": "Arborio Rice",
         "desc": "Very popular in Italia, this rice is the preferred one for Risotto among Italians. It should be cooked al dente, while still slightly firm to the bite, and never washed or rinsed as it will lose the starchy coating that creates the creamy and slightly chewy texture once cooked.",
         "origin": "Italia",
-        "price": "9.99",
+        "price": 9.99,
         "image": "https://cdn.tasteatlas.com/images/ingredients/2a47bca8ae89405b97b9b5ae7fe1cdfc.jpg?mw=1300"
     }
 ],
