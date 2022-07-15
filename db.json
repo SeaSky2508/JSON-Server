@@ -2,48 +2,54 @@
   "users": [
   ],
  "rice_data" : [
-    {
-        "name": "Wild",
-        "desc": "If you're looking to cut calories and up your protein intake, wild rice is the better option. A serving of wild rice contains fewer calories and boasts double the protein content of brown rice.",
-        "origin": "USA",
-        "price": 7.50,
-        "image": "https://www.northbaytrading.com/media/catalog/product/cache/57bdce4f10465bdfd189f02b1d249e78/m/i/minnesota_grown_wild_rice_650px_1_1.jpg"
-    },
-    {
-        "name": "Jasmine",
-        "desc": "Jasmine rice is a long-grain rice. This means that it is longer and thinner than most other types of rice. It also tends to have a fluffy texture when cooked, rather than soft and clumpy.",
-        "origin": "Thailand",
-        "price": 7.99,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/2014_uncooked_Thai_jasmine_rice.jpg"
-    },
-    {
-        "name": "Short-grain",
-        "desc": "Very popular in Japan it is the preferred type of grain used for sushi, it should be cleaned whit water before being prepared.",
-        "origin": "Japan",
-        "price": 5.99,
-        "image": "https://www.happyfoodstube.com/wp-content/uploads/2020/04/rice-paper-sushi-image.jpg"
-    },
-    {
-        "name": "Bomba rice",
-        "desc": "Ideal for paella this rice is very popular in mediterranian countries, its main trait is that it absorbs lots of water so it requires lots of water to cook.",
-        "origin": "Valencia",
-        "price": 4.99,
-        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdnimg.webstaurantstore.com%2Fimages%2Fproducts%2Fxxl%2F607339%2F2179548.jpg&f=1&nofb=1"
-    },
-    {
-        "name": "Basmati Rice",
-        "desc": "Long grain, with a great aroma. Ideal for salads and cold dishes it can be combined with many dishes and is very popular in India",
-        "origin": "India",
-        "price": 3.99,
-        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmininepal.jp%2Fwp-content%2Fuploads%2F2020%2F11%2F7-rice-basmati-3.jpg&f=1&nofb=1"
-    },
-    {
-        "name": "Arborio Rice",
-        "desc": "Very popular in Italia, this rice is the preferred one for Risotto among Italians. It should be cooked al dente, while still slightly firm to the bite, and never washed or rinsed as it will lose the starchy coating that creates the creamy and slightly chewy texture once cooked.",
-        "origin": "Italia",
-        "price": 9.99,
-        "image": "https://cdn.tasteatlas.com/images/ingredients/2a47bca8ae89405b97b9b5ae7fe1cdfc.jpg?mw=1300"
-    }
+  {
+    "name": "Wild",
+    "desc": "If you're looking to cut calories and up your protein intake, wild rice is the better option. A serving of wild rice contains fewer calories and boasts double the protein content of brown rice.",
+    "origin": "USA",
+    "price": 7.5,
+    "image": "https://www.northbaytrading.com/media/catalog/product/cache/57bdce4f10465bdfd189f02b1d249e78/m/i/minnesota_grown_wild_rice_650px_1_1.jpg",
+    "wiki": "Wild rice, also called Canada rice, Indian rice, or water oats, is any of four species of grasses that form the genus Zizania, and the grain that can be harvested from them. The grain was historically gathered and eaten in both North America and China, but eaten less in China, where the plant's stem is used as a vegetable."
+  },
+  {
+    "name": "Jasmine",
+    "desc": "Jasmine rice is a long-grain rice. This means that it is longer and thinner than most other types of rice. It also tends to have a fluffy texture when cooked, rather than soft and clumpy.",
+    "origin": "Thailand",
+    "price": 7.99,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/2014_uncooked_Thai_jasmine_rice.jpg",
+    "wiki": "Jasmine rice is grown primarily in Thailand (Thai hom mali or Thai fragrant rice), Cambodia (phka rumduol or Cambodian jasmine rice), Laos, and southern Vietnam. It is moist and soft in texture when cooked, with a slightly sweet flavor. The grains cling and are somewhat sticky when cooked, though less sticky than glutinous rice (Oryza sativa var. glutinosa), as it has less amylopectin. It is about three times stickier than American long-grain rice."
+  },
+  {
+    "name": "Short-grain",
+    "desc": "Very popular in Japan it is the preferred type of grain used for sushi, it should be cleaned whit water before being prepared.",
+    "origin": "Japan",
+    "price": 5.99,
+    "image": "https://www.happyfoodstube.com/wp-content/uploads/2020/04/rice-paper-sushi-image.jpg",
+    "wiki": "Japanese rice refers to a number of short-grain cultivars of Japonica rice including ordinary rice (uruchimai) and glutinous rice (mochigome). Ordinary Japanese rice, or uruchimai (粳米), is the staple of the Japanese diet and consists of short translucent grains. When cooked, it has a sticky texture such that it can easily be picked up and eaten with chopsticks. Outside Japan it is sometimes labeled sushi rice, as this is one of its common uses. It is also used to produce sake."
+  },
+  {
+    "name": "Bomba rice",
+    "desc": "Ideal for paella this rice is very popular in mediterranian countries, its main trait is that it absorbs lots of water so it requires lots of water to cook.",
+    "origin": "Valencia",
+    "price": 4.99,
+    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdnimg.webstaurantstore.com%2Fimages%2Fproducts%2Fxxl%2F607339%2F2179548.jpg&f=1&nofb=1",
+    "wiki": "Bomba rice (Spanish: arroz bomba; Valencian: arròs bomba) is a short-grain variety of rice (Oryza sativa L.), primarily cultivated in the eastern parts of Spain. It is commonly used in paella and other dishes in Valencian cuisine, and is often referred to as Valencia rice. It has short grains due to the presence of amylopectin."
+  },
+  {
+    "name": "Basmati Rice",
+    "desc": "Long grain, with a great aroma. Ideal for salads and cold dishes it can be combined with many dishes and is very popular in India",
+    "origin": "India",
+    "price": 3.99,
+    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmininepal.jp%2Fwp-content%2Fuploads%2F2020%2F11%2F7-rice-basmati-3.jpg&f=1&nofb=1",
+    "wiki": "Basmati is a variety of long, slender-grained aromatic rice which is traditionally grown in India, Pakistan, Bangladesh and Nepal. As of 2019, India accounted for 65% of the international trade in basmati rice, while Pakistan accounted for the remaining 35%. Many countries use domestically grown basmati rice crops; however, basmati is geographically exclusive to certain districts of India and Pakistan."
+  },
+  {
+    "name": "Arborio Rice",
+    "desc": "Very popular in Italia, this rice is the preferred one for Risotto among Italians. It should be cooked al dente, while still slightly firm to the bite, and never washed or rinsed as it will lose the starchy coating that creates the creamy and slightly chewy texture once cooked.",
+    "origin": "Italia",
+    "price": 9.99,
+    "image": "https://cdn.tasteatlas.com/images/ingredients/2a47bca8ae89405b97b9b5ae7fe1cdfc.jpg?mw=1300",
+    "wiki": "Arborio rice is an Italian short-grain rice. It is named after the town of Arborio, in the Po Valley, which is situated in the region of Piedmont in Italy. When cooked, the rounded grains are firm, and creamy and chewy compared to other varieties of rice, due to their higher amylopectin starch content."
+  }
 ],
 "final_buy": [
   ],
